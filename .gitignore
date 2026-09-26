@@ -1,0 +1,9 @@
+/drainorder-go
+/drain-demo
+*.exe
+*.test
+*.out
+coverage.txt
+coverage.html
+/bin/
+/dist/
