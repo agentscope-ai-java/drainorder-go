@@ -1,3 +1,3 @@
-module github.com/__GH_OWNER__/drainorder-go
+module github.com/agentscope-ai-java/drainorder-go
 
 go 1.27.1

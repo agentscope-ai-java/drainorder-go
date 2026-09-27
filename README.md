@@ -120,7 +120,7 @@ anyway.
 ## Install
 
 ```sh
-go get github.com/__GH_OWNER__/drainorder-go
+go get github.com/agentscope-ai-java/drainorder-go
 ```
 
 Built and tested against Go 1.27; `go.mod` declares `go 1.27.1`. Standard
@@ -136,7 +136,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/__GH_OWNER__/drainorder-go"
+	"github.com/agentscope-ai-java/drainorder-go"
 )
 
 func main() {

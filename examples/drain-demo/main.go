@@ -14,7 +14,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	drainorder "github.com/__GH_OWNER__/drainorder-go"
+	drainorder "github.com/agentscope-ai-java/drainorder-go"
 )
 
 const (

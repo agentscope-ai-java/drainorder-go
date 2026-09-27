@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/__GH_OWNER__/drainorder-go"
+	"github.com/agentscope-ai-java/drainorder-go"
 )
 
 // startServer starts a real *http.Server on a real, OS-assigned localhost
